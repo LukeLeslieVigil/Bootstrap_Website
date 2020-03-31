@@ -9,11 +9,28 @@ body {
 }
 
 a.navbar-brand {
-	position: absolute;
-	right: 0px;
+	text-align: left;
+}
+
+#navbarCollapse {
 	text-align: right;
 }
 
+.button-text {
+	color: white;
+}
+
+button.navbar-toggler:hover {
+	background-color: lightslategray;
+}
+
+.bg-dark {
+	background-color: #17b6ff !important;
+}
+
+a.nav-link {
+	color: darkorange;
+}
 /* CUSTOMIZE THE CAROUSEL
 -------------------------------------------------- */
 
