@@ -8,6 +8,11 @@ body {
   color: #5a5a5a;
 }
 
+a.navbar-brand {
+	position: absolute;
+	right: 0px;
+	text-align: right;
+}
 
 /* CUSTOMIZE THE CAROUSEL
 -------------------------------------------------- */
