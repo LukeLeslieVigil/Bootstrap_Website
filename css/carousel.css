@@ -8,29 +8,6 @@ body {
   color: #5a5a5a;
 }
 
-a.navbar-brand {
-	text-align: left;
-}
-
-#navbarCollapse {
-	text-align: right;
-}
-
-.button-text {
-	color: white;
-}
-
-button.navbar-toggler:hover {
-	background-color: lightslategray;
-}
-
-.bg-dark {
-	background-color: #17b6ff !important;
-}
-
-a.nav-link {
-	color: darkorange;
-}
 /* CUSTOMIZE THE CAROUSEL
 -------------------------------------------------- */
 
@@ -86,6 +63,8 @@ a.nav-link {
   font-weight: 300;
   line-height: 1;
   letter-spacing: -.05rem;
+	color: black;
+	padding: 5px;
 }
 
 
